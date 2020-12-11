@@ -1,3 +1,8 @@
+//Estudiante:	Bryan Ávila Chang
+//Cédula:		207650918
+//Curso:		Programación I
+//Ciclo:		III-2020
+
 #include "Estudiante.h"
 
 class Contenedor {
